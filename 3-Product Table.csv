@@ -1,0 +1,11 @@
+Beer_ID,Beer_Name,Beer_Type,Abv,Revenue_per_Beer,Cost_per_Beer
+1,Black Hole,Stout,12,7,3
+2,Milky Way,Porter,8.2,5,2.5
+3,Meteor Shower,IPA,6.5,4,2
+4,Speed of Light,2xIPA,8,4.5,2.5
+5,Eclipse,Pale Ale,5.8,3.5,1.5
+6,Nebula,Sour Ale,4.5,3.25,1.75
+7,Fermi Paradox,Pilsner,4.2,2.7,1.8
+8,Solar Flare,Lager,5,2.25,2.25
+9,Aurora Borealis,Belgium,7.4,2.35,2.15
+10,Betelgeuse,Barley Wine,13.5,11,4
